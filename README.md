@@ -1,2 +1,5 @@
 # hello-word
-My first repository
+
+Hi Humans!
+
+This is my first experience with git hub.
